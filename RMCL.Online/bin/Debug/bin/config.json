@@ -1,0 +1,30 @@
+{
+  "network": {
+    "Token": 17190022896174664900,
+    "Node": "rmcl.online-dpoe6c0rjo@aalhy31yayqy_qf$l95|25565",
+    "User": "MinecraftYJQ_",
+    "ShareBandwidth": 10,
+    "ServerHost": "api.openp2p.cn",
+    "ServerPort": 27183,
+    "UDPPort1": 27182,
+    "UDPPort2": 27183,
+    "TCPPort": 55908
+  },
+  "apps": [
+    {
+      "AppName": "Minecraft Server Info",
+      "Protocol": "tcp",
+      "UnderlayProtocol": "",
+      "Whitelist": "",
+      "SrcPort": 53759,
+      "PeerNode": "rmcl.online-m7go8@c0$8juoz6swbe\u0026tuhjyxsvu%|53759",
+      "DstPort": 53759,
+      "DstHost": "localhost",
+      "PeerUser": "",
+      "RelayNode": "",
+      "ForceRelay": 0,
+      "Enabled": 1
+    }
+  ],
+  "LogLevel": 2
+}

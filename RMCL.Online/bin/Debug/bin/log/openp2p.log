@@ -1,0 +1,99 @@
+2024/08/08 16:26:39.205793 99280 INFO openp2p start. version: 3.16.8
+2024/08/08 16:26:39.231388 99280 INFO Contact: QQ group 16947733, Email openp2p.cn@gmail.com
+2024/08/08 16:26:39.231388 99280 INFO &{{17190022896174664900 kd8ack2@7ihlas?jholwnkxmpxo3dmvzdm6t=.yhxvt+!?yo,_?usxpdswys6?6uwvi.ys| 0 MinecraftYJQ_     0 0  0 10 api.openp2p.cn 27183 27182 27183 55908} [0xa443b30] 2 false {0 0} {0 0} {0     0 0 []} [] []}
+2024/08/08 16:26:39.581654 99280 INFO P2PNetwork init start
+2024/08/08 16:26:40.735840 99280 INFO PublicIP:192.168.1.100
+2024/08/08 16:26:40.765779 99280 INFO hasIPv4:0, UPNP:0, NAT type:1, publicIP:14.221.164.7
+2024/08/08 16:26:40.882706 99280 INFO login ok. user=MinecraftYJQ_,node=kd8ack2@7ihlas?jholwnkxmpxo3dmvzdm6t=.yhxvt+!?yo,_?usxpdswys6?6uwvi.ys|
+2024/08/08 16:26:40.903178 99280 INFO P2PNetwork init end
+2024/08/08 16:26:40.903178 99280 INFO autorunApp start
+2024/08/08 16:26:40.934942 99280 INFO sdwan init:{
+  "Nodes": null
+}
+2024/08/08 16:26:40.935412 99280 INFO sdwan init ok
+2024/08/08 16:26:41.924406 99280 INFO addApp Minecraft Server Info to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109:localhost:56109 start
+2024/08/08 16:26:41.924406 99280 INFO addApp Minecraft Server Info to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109:localhost:56109 end
+2024/08/08 16:26:41.924406 99280 INFO detect app ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109:Minecraft Server Info disconnect, reconnecting the 1 times...
+2024/08/08 16:26:41.987102 99280 INFO try UDP4 Punch
+2024/08/08 16:26:45.153224 99280 INFO handshakeC2C ok
+2024/08/08 16:26:45.273260 99280 INFO rtt=40.0351ms
+2024/08/08 16:26:45.273260 99280 INFO  connection ok
+2024/08/08 16:26:45.273260 99280 INFO detect app ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109:Minecraft Server Info relay disconnect, reconnecting the 1 times...
+2024/08/08 16:26:45.274245 99280 INFO LISTEN ON PORT tcp:56109 START
+2024/08/08 16:26:45.305089 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 start
+2024/08/08 16:26:45.372710 99280 INFO try UDP4 Punch
+2024/08/08 16:26:48.535737 99280 INFO handshakeC2C ok
+2024/08/08 16:26:48.664842 99280 INFO rtt=28.3216ms
+2024/08/08 16:26:48.665407 99280 INFO  connection ok
+2024/08/08 16:26:52.081588 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 end
+2024/08/08 16:27:13.149561 99280 INFO detect app ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109:Minecraft Server Info relay disconnect, reconnecting the 2 times...
+2024/08/08 16:27:13.180521 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 start
+2024/08/08 16:27:13.258768 99280 INFO try UDP4 Punch
+2024/08/08 16:27:13.258768 99280 INFO tunnel already exist DESKTOP-VP9EJUM
+2024/08/08 16:27:15.282861 99280 ERROR 11219959769866030225 tunnel read error:deadline exceeded
+2024/08/08 16:27:15.283365 99280 INFO 11219959769866030225 p2ptunnel close ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 
+2024/08/08 16:27:18.629352 99280 INFO checkActive false. hbtime={13953627427088773480 29486682601 13357664}
+2024/08/08 16:27:18.629352 99280 INFO but it's not active, close it DESKTOP-VP9EJUM
+2024/08/08 16:27:18.629352 99280 INFO 2712231964260208357 p2ptunnel close DESKTOP-VP9EJUM 
+2024/08/08 16:27:18.675486 99280 ERROR 2712231964260208357 write tunnel heartbeat error Application error 0x0 (local)
+2024/08/08 16:27:21.792912 99280 INFO handshakeC2C ok
+2024/08/08 16:27:21.912963 99280 INFO rtt=31.6066ms
+2024/08/08 16:27:21.914360 99280 INFO  connection ok
+2024/08/08 16:27:25.278720 99280 ERROR 11219959769866030225 write tunnel heartbeat error Application error 0x0 (local)
+2024/08/08 16:27:51.926114 99280 ERROR read msg error 3:5 timeout
+2024/08/08 16:27:51.926114 99280 ERROR read MsgPushAddRelayTunnelRsp error
+2024/08/08 16:27:51.927677 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 end
+2024/08/08 16:27:54.935828 99280 INFO detect app ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109:Minecraft Server Info disconnect, reconnecting the 2 times...
+2024/08/08 16:27:55.035364 99280 INFO try UDP4 Punch
+2024/08/08 16:28:25.089018 99280 ERROR read msg error 3:2 timeout
+2024/08/08 16:28:25.089018 99280 ERROR p2pTunnel connect error:connect error
+2024/08/08 16:28:25.089018 99280 INFO try TCP4 Punch
+2024/08/08 16:28:37.693522 99280 ERROR Dial 223.89.146.216:14153 error:dial tcp 0.0.0.0:52854->223.89.146.216:14153: i/o timeout
+2024/08/08 16:28:37.693522 99280 ERROR TCP dial to 223.89.146.216:14153 error:dial tcp 0.0.0.0:52854->223.89.146.216:14153: i/o timeout
+2024/08/08 16:28:37.694026 99280 ERROR handshake error:TCP dial to 223.89.146.216:14153 error:dial tcp 0.0.0.0:52854->223.89.146.216:14153: i/o timeout
+2024/08/08 16:28:37.694026 99280 ERROR p2pTunnel connect error:TCP dial to 223.89.146.216:14153 error:dial tcp 0.0.0.0:52854->223.89.146.216:14153: i/o timeout
+2024/08/08 16:28:37.694026 99280 INFO detect app ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109:Minecraft Server Info relay disconnect, reconnecting the 3 times...
+2024/08/08 16:28:37.726031 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 start
+2024/08/08 16:28:37.790890 99280 INFO try UDP4 Punch
+2024/08/08 16:28:41.023936 99280 INFO handshakeC2C ok
+2024/08/08 16:28:41.289896 99280 INFO rtt=68.9262ms
+2024/08/08 16:28:41.289896 99280 INFO  connection ok
+2024/08/08 16:28:44.855118 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 end
+2024/08/08 16:28:47.861172 99280 INFO detect app ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109:Minecraft Server Info disconnect, reconnecting the 3 times...
+2024/08/08 16:28:47.958051 99280 INFO try UDP4 Punch
+2024/08/08 16:28:51.152936 99280 INFO handshakeC2C ok
+2024/08/08 16:28:51.849444 99280 INFO MsgPushDstNodeOnline
+2024/08/08 16:28:51.850047 99280 INFO retry peerNode ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109
+2024/08/08 16:28:53.292843 99280 INFO rtt=45.8874ms
+2024/08/08 16:28:53.292843 99280 INFO  connection ok
+2024/08/08 16:28:53.323740 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 start
+2024/08/08 16:28:53.387323 99280 INFO try UDP4 Punch
+2024/08/08 16:28:53.388435 99280 INFO tunnel already exist LAPTOP-0LUS8QC2-Oyd2JTVJ
+2024/08/08 16:28:58.767094 99280 INFO checkActive false. hbtime={13953627537317002552 132119503801 13357664}
+2024/08/08 16:28:58.767094 99280 INFO but it's not active, close it LAPTOP-0LUS8QC2-Oyd2JTVJ
+2024/08/08 16:28:58.767094 99280 INFO 5141326949274501795 p2ptunnel close LAPTOP-0LUS8QC2-Oyd2JTVJ 
+2024/08/08 16:29:01.301252 99280 ERROR 5141326949274501795 write tunnel heartbeat error Application error 0x0 (local)
+2024/08/08 16:29:01.988219 99280 INFO handshakeC2C ok
+2024/08/08 16:29:02.230262 99280 INFO rtt=69.1963ms
+2024/08/08 16:29:02.230262 99280 INFO  connection ok
+2024/08/08 16:29:02.549384 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 end
+2024/08/08 16:29:08.492290 99280 INFO Access Granted
+2024/08/08 16:29:18.540674 99280 ERROR punch handshake error:read udp 192.168.0.102:64752: i/o timeout
+2024/08/08 16:29:18.541182 99280 ERROR p2pTunnel listen error:read udp 192.168.0.102:64752: i/o timeout
+2024/08/08 16:29:23.602014 99280 INFO detect app ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109:Minecraft Server Info relay disconnect, reconnecting the 1 times...
+2024/08/08 16:29:23.634190 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 start
+2024/08/08 16:29:23.697891 99280 INFO try UDP4 Punch
+2024/08/08 16:29:23.762259 99280 ERROR p2pTunnel connect error:p2ptunnel busy
+2024/08/08 16:29:23.762259 99280 INFO try TCP4 Punch
+2024/08/08 16:29:23.866043 99280 ERROR p2pTunnel connect error:p2ptunnel busy
+2024/08/08 16:29:23.866270 99280 ERROR direct connect error:p2ptunnel busy
+2024/08/08 16:29:23.866270 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 end
+2024/08/08 16:29:35.890187 99280 INFO detect app ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109:Minecraft Server Info relay disconnect, reconnecting the 2 times...
+2024/08/08 16:29:35.921935 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 start
+2024/08/08 16:29:35.988457 99280 INFO try TCP4
+2024/08/08 16:29:36.551219 99280 INFO rtt=173.6141ms
+2024/08/08 16:29:36.551472 99280 INFO TCP connection ok
+2024/08/08 16:29:36.998181 99280 INFO addRelayTunnel to ?hxqk2a%-nt0zbdotgbabs@v4coqxw9y$.oaar_cr.dlzkckyh?-qdhtkcvhqwkfn75azd|56109 end
+2024/08/08 16:29:38.556047 99280 INFO Access Granted
+2024/08/08 16:29:46.646866 99280 ERROR listen TCP error:dial tcp 0.0.0.0:53202->223.89.146.163:59374: i/o timeout
+2024/08/08 16:29:46.646866 99280 ERROR p2pTunnel listen error:listen TCP error:dial tcp 0.0.0.0:53202->223.89.146.163:59374: i/o timeout
